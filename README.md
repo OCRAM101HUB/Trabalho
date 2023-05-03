@@ -6,7 +6,7 @@
 <img src=https://github.com/OCRAM101HUB/Trabalho/blob/16c306e6fbe1121c4b9698e1690ff880f8756166/miro.png/>
 
 ## Video
-Link para o [vídeo](https://drive.google.com/file/d/1ZuldfwX1VSZJzXPUsms0Ahw-G__2igKX/view?usp=sharing)
+Link para o [vídeo]()
 
 ## Banco de dados - NBA Attendance report
 Link para o [banco de dados](http://www.espn.com/nba/attendance/_/year/2020)
